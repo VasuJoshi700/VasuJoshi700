@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VasuJoshi
+- 👋 Hi, I’m Vasu Joshi
 - 👀 I’m interested in to get an exposure in the field of Data analytics
 - 🌱 I’m currently learning Data Analytics
 - 📫 contact me on +91-7017277468
